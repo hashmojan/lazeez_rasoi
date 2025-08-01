@@ -1,0 +1,2021 @@
+[
+  {
+    "id": 1,
+    "title": "Halwa Puri",
+    "description": "Classic weekend breakfast combination of semolina pudding and fried bread.",
+    "category": "Breakfast",
+    "time": 60,
+    "rating": 4.8,
+    "image": "assets/images/halwa_puri.png",
+    "ingredients": [
+      "1 cup semolina",
+      "1 cup sugar",
+      "4 cups water",
+      "1/2 cup ghee",
+      "1/2 tsp cardamom powder",
+      "2 cups flour",
+      "1/2 tsp salt",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Roast semolina in ghee until golden",
+      "Add sugar syrup and cook until thick",
+      "Prepare puri dough with flour and water",
+      "Roll small circles and deep fry until puffed",
+      "Serve hot with halwa"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chana Cholay",
+    "description": "Spicy chickpea curry served with fried bread or naan.",
+    "category": "Breakfast",
+    "time": 90,
+    "rating": 4.6,
+    "image": "assets/images/chana_cholay.png",
+    "ingredients": [
+      "2 cups chickpeas (soaked overnight)",
+      "1 large onion (finely chopped)",
+      "2 tomatoes (pureed)",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "Fresh coriander for garnish"
+    ],
+    "steps": [
+      "Pressure cook chickpeas until tender",
+      "Sauté onions until golden brown",
+      "Add ginger-garlic paste and tomatoes",
+      "Add spices and cooked chickpeas",
+      "Simmer for 15 minutes",
+      "Garnish with fresh coriander"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Aloo Paratha",
+    "description": "Whole wheat flatbread stuffed with spiced potato filling.",
+    "category": "Breakfast",
+    "time": 45,
+    "rating": 4.9,
+    "image": "assets/images/aloo_paratha.png",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "3 medium potatoes (boiled)",
+      "1 tsp cumin seeds",
+      "1 green chili (finely chopped)",
+      "1/2 tsp red chili powder",
+      "1/2 tsp garam masala",
+      "Salt to taste",
+      "Ghee for cooking"
+    ],
+    "steps": [
+      "Mash boiled potatoes with spices",
+      "Prepare dough with flour and water",
+      "Stuff dough with potato mixture",
+      "Roll out carefully",
+      "Cook on griddle with ghee until golden"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Siri Paye",
+    "description": "Slow-cooked trotters and head meat stew, a winter specialty.",
+    "category": "Breakfast",
+    "time": 360,
+    "rating": 4.7,
+    "image": "assets/images/siri_paye.png",
+    "ingredients": [
+      "1 kg mutton trotters",
+      "1/2 cup wheat flour",
+      "2 tbsp ginger-garlic paste",
+      "1 tbsp red chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1/2 cup oil",
+      "Fresh ginger juliennes for garnish"
+    ],
+    "steps": [
+      "Clean and boil trotters for 3-4 hours",
+      "Prepare roux with wheat flour and oil",
+      "Add boiled trotters and spices",
+      "Simmer for another hour",
+      "Garnish with fresh ginger"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Anda Paratha",
+    "description": "Flaky paratha stuffed with spiced egg mixture.",
+    "category": "Breakfast",
+    "time": 30,
+    "rating": 4.5,
+    "image": "assets/images/anda_paratha.png",
+    "ingredients": [
+      "2 cups flour",
+      "3 eggs",
+      "1 small onion (finely chopped)",
+      "1 green chili (chopped)",
+      "1/4 tsp turmeric",
+      "1/2 tsp red chili powder",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "steps": [
+      "Prepare soft dough with flour and water",
+      "Whisk eggs with spices and onions",
+      "Roll out paratha, add egg mixture",
+      "Fold and cook on griddle with oil",
+      "Serve hot with yogurt"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Nihari",
+    "description": "Slow-cooked beef shank stew with aromatic spices.",
+    "category": "Breakfast",
+    "time": 300,
+    "rating": 4.8,
+    "image": "assets/images/nihari.png",
+    "ingredients": [
+      "1 kg beef shank",
+      "2 tbsp nihari masala",
+      "1/2 cup wheat flour",
+      "1/2 cup oil",
+      "2 onions (sliced)",
+      "1 tbsp ginger-garlic paste",
+      "8 cups water",
+      "Fresh ginger and lemon for garnish"
+    ],
+    "steps": [
+      "Brown onions in oil and set aside",
+      "Sear beef with ginger-garlic paste",
+      "Add water and spices, simmer for 4-5 hours",
+      "Make slurry with wheat flour and mix in",
+      "Garnish with fried onions and ginger"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Chai and Rusk",
+    "description": "Classic Pakistani breakfast combination of milky tea and crisp rusks.",
+    "category": "Breakfast",
+    "time": 15,
+    "rating": 4.3,
+    "image": "assets/images/chai_rusk.png",
+    "ingredients": [
+      "2 cups water",
+      "2 cups milk",
+      "3 tsp loose tea leaves",
+      "2-3 cardamom pods",
+      "Sugar to taste",
+      "4-6 pieces of rusk"
+    ],
+    "steps": [
+      "Boil water with tea leaves and cardamom",
+      "Add milk and bring to boil",
+      "Simmer for 2-3 minutes",
+      "Strain and serve with rusks"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Daal Chawal",
+    "description": "Comforting lentil curry with steamed rice.",
+    "category": "Breakfast",
+    "time": 45,
+    "rating": 4.4,
+    "image": "assets/images/daal_chawal.png",
+    "ingredients": [
+      "1 cup yellow lentils",
+      "1/2 tsp turmeric",
+      "1 tsp cumin seeds",
+      "1 onion (sliced)",
+      "2 tomatoes (chopped)",
+      "1 green chili",
+      "2 cups cooked rice",
+      "Fresh coriander for garnish"
+    ],
+    "steps": [
+      "Cook lentils with turmeric until soft",
+      "Temper with cumin, onions and tomatoes",
+      "Season with salt and chili",
+      "Serve hot with steamed rice"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Kashmiri Chai",
+    "description": "Pink salted tea with nuts, a Kashmir valley specialty.",
+    "category": "Breakfast",
+    "time": 30,
+    "rating": 4.6,
+    "image": "assets/images/kashmiri_chai.png",
+    "ingredients": [
+      "4 cups water",
+      "2 tsp Kashmiri tea leaves",
+      "1/4 tsp baking soda",
+      "2 cups milk",
+      "Salt to taste",
+      "Chopped almonds and pistachios"
+    ],
+    "steps": [
+      "Boil tea leaves with baking soda for 15 mins",
+      "Add milk and simmer until pink color develops",
+      "Add salt to taste",
+      "Top with chopped nuts"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Masala Omelette",
+    "description": "Fluffy eggs with onions, tomatoes and green chilies.",
+    "category": "Breakfast",
+    "time": 10,
+    "rating": 4.2,
+    "image": "assets/images/masala_omelette.png",
+    "ingredients": [
+      "3 eggs",
+      "1 small onion (chopped)",
+      "1 small tomato (chopped)",
+      "1 green chili (chopped)",
+      "1/4 tsp black pepper",
+      "Salt to taste",
+      "2 tbsp oil"
+    ],
+    "steps": [
+      "Beat eggs with all ingredients",
+      "Heat oil in pan",
+      "Pour egg mixture and cook on medium heat",
+      "Fold and serve hot with bread"
+    ]
+  },
+
+    {
+      "id": 11,
+      "title": "Chicken Biryani",
+      "description": "Fragrant basmati rice layered with spiced chicken and aromatic spices.",
+      "category": "Lunch",
+      "time": 90,
+      "rating": 4.9,
+      "image": "assets/images/chicken_biryani.png",
+      "ingredients": [
+        "2 cups basmati rice",
+        "500g chicken (bone-in)",
+        "1 cup yogurt",
+        "2 large onions (sliced)",
+        "4 tomatoes (chopped)",
+        "2 tbsp biryani masala",
+        "1 tsp turmeric powder",
+        "1/2 cup fresh mint leaves",
+        "1/2 cup fresh coriander",
+        "4 cups water",
+        "1/2 cup fried onions",
+        "1/4 cup ghee"
+      ],
+      "steps": [
+        "Marinate chicken with yogurt, biryani masala, and turmeric for 2 hours",
+        "Soak rice for 30 minutes then parboil",
+        "In heavy pot, layer rice, chicken, mint, coriander and fried onions",
+        "Seal with dough or foil and cook on low heat (dum) for 30 minutes",
+        "Mix gently before serving with raita"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Beef Pulao",
+      "description": "Aromatic rice cooked with tender beef chunks and whole spices.",
+      "category": "Lunch",
+      "time": 120,
+      "rating": 4.7,
+      "image": "assets/images/beef_pulao.png",
+      "ingredients": [
+        "2 cups basmati rice",
+        "500g beef (cubed)",
+        "1 large onion (sliced)",
+        "2 tomatoes (chopped)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "4 cloves",
+        "2 bay leaves",
+        "4 cups beef stock",
+        "1/2 cup oil",
+        "1 tsp garam masala"
+      ],
+      "steps": [
+        "Brown beef cubes in oil and set aside",
+        "In same pot, sauté onions until golden",
+        "Add ginger-garlic paste and tomatoes",
+        "Return beef to pot with all spices",
+        "Add rice and stock, bring to boil",
+        "Cover and simmer until liquid is absorbed",
+        "Let stand covered for 10 minutes before serving"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Chicken Karahi",
+      "description": "Spicy tomato-based curry cooked in traditional wok (karahi).",
+      "category": "Lunch",
+      "time": 45,
+      "rating": 4.8,
+      "image": "assets/images/chicken_karahi.png",
+      "ingredients": [
+        "1 kg chicken (cut in pieces)",
+        "4 tomatoes (finely chopped)",
+        "2 green chilies (slit)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1 tsp coriander powder",
+        "1/2 tsp turmeric",
+        "1/2 cup oil",
+        "1 tsp garam masala",
+        "Fresh coriander for garnish"
+      ],
+      "steps": [
+        "Heat oil in karahi, add cumin seeds",
+        "Add chicken and brown on high heat",
+        "Add ginger-garlic paste and tomatoes",
+        "Cook until oil separates",
+        "Add all spices and 1 cup water",
+        "Simmer until chicken is tender",
+        "Garnish with fresh coriander and green chilies"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Daal Chawal",
+      "description": "Classic comfort food - lentil curry with steamed rice.",
+      "category": "Lunch",
+      "time": 60,
+      "rating": 4.5,
+      "image": "assets/images/daal_chawal.png",
+      "ingredients": [
+        "1 cup yellow lentils (moong daal)",
+        "1/2 tsp turmeric",
+        "1 tsp cumin seeds",
+        "1 onion (sliced)",
+        "2 tomatoes (chopped)",
+        "1 green chili",
+        "2 tbsp ghee",
+        "1 tsp red chili powder",
+        "2 cups cooked basmati rice"
+      ],
+      "steps": [
+        "Pressure cook lentils with turmeric until soft",
+        "In separate pan, heat ghee and temper cumin seeds",
+        "Add onions and sauté until golden",
+        "Add tomatoes and green chili",
+        "Mix in cooked lentils and simmer for 10 minutes",
+        "Serve hot with steamed rice and pickle"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Beef Nihari",
+      "description": "Slow-cooked beef shank stew with aromatic spices.",
+      "category": "Lunch",
+      "time": 300,
+      "rating": 4.8,
+      "image": "assets/images/beef_nihari.png",
+      "ingredients": [
+        "1 kg beef shank",
+        "2 tbsp nihari masala",
+        "1/2 cup wheat flour",
+        "1/2 cup oil",
+        "2 onions (sliced)",
+        "1 tbsp ginger-garlic paste",
+        "8 cups water",
+        "Fresh ginger juliennes",
+        "Lemon wedges"
+      ],
+      "steps": [
+        "Brown onions in oil and set aside",
+        "Sear beef with ginger-garlic paste",
+        "Add water and spices, simmer for 4-5 hours",
+        "Make slurry with wheat flour and mix in",
+        "Cook until thickened",
+        "Garnish with fried onions, ginger and lemon"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Aloo Gosht",
+      "description": "Hearty meat and potato curry with rich gravy.",
+      "category": "Lunch",
+      "time": 90,
+      "rating": 4.6,
+      "image": "assets/images/aloo_gosht.png",
+      "ingredients": [
+        "500g mutton or beef",
+        "4 potatoes (quartered)",
+        "2 onions (sliced)",
+        "2 tomatoes (chopped)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1/2 tsp turmeric",
+        "1/2 cup oil",
+        "Fresh coriander for garnish"
+      ],
+      "steps": [
+        "Heat oil and brown meat pieces",
+        "Add onions and sauté until golden",
+        "Add ginger-garlic paste and tomatoes",
+        "Add all spices and 2 cups water",
+        "Simmer until meat is half done",
+        "Add potatoes and cook until tender",
+        "Garnish with fresh coriander"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Chana Masala",
+      "description": "Spicy chickpea curry with authentic Punjabi flavors.",
+      "category": "Lunch",
+      "time": 60,
+      "rating": 4.7,
+      "image": "assets/images/chana_masala.png",
+      "ingredients": [
+        "2 cups chickpeas (soaked overnight)",
+        "1 onion (finely chopped)",
+        "2 tomatoes (pureed)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1 tsp coriander powder",
+        "1/2 tsp turmeric",
+        "1 tsp garam masala",
+        "1 tsp dried mango powder (amchoor)",
+        "2 tbsp oil"
+      ],
+      "steps": [
+        "Pressure cook chickpeas until tender",
+        "Heat oil and temper cumin seeds",
+        "Add onions and sauté until golden",
+        "Add ginger-garlic paste and tomato puree",
+        "Add all spices and cooked chickpeas",
+        "Simmer for 15 minutes",
+        "Garnish with fresh coriander and sliced onions"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Fish Curry",
+      "description": "Coastal-style fish in spicy tomato gravy.",
+      "category": "Lunch",
+      "time": 45,
+      "rating": 4.5,
+      "image": "assets/images/fish_curry.png",
+      "ingredients": [
+        "500g fish fillets (snapper or kingfish)",
+        "2 onions (ground to paste)",
+        "2 tomatoes (pureed)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1/2 tsp turmeric",
+        "1 tsp red chili powder",
+        "1/2 cup oil",
+        "Fresh coriander for garnish"
+      ],
+      "steps": [
+        "Marinate fish with salt and turmeric for 15 minutes",
+        "Heat oil and sauté onion paste until golden",
+        "Add ginger-garlic paste and tomato puree",
+        "Add all spices and cook until oil separates",
+        "Add 1 cup water and bring to boil",
+        "Gently add fish pieces and simmer for 10 minutes",
+        "Garnish with fresh coriander"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Vegetable Pulao",
+      "description": "Fragrant rice with mixed vegetables and whole spices.",
+      "category": "Lunch",
+      "time": 60,
+      "rating": 4.4,
+      "image": "assets/images/vegetable_pulao.png",
+      "ingredients": [
+        "2 cups basmati rice",
+        "1 cup mixed vegetables (carrots, peas, potatoes)",
+        "1 onion (sliced)",
+        "4 cloves",
+        "2 bay leaves",
+        "1 tsp cumin seeds",
+        "1 tsp garam masala",
+        "4 cups water",
+        "1/4 cup oil",
+        "Fresh coriander for garnish"
+      ],
+      "steps": [
+        "Soak rice for 30 minutes then drain",
+        "Heat oil and temper whole spices",
+        "Add onions and sauté until golden",
+        "Add vegetables and sauté for 5 minutes",
+        "Add rice and water with garam masala",
+        "Cook covered until water is absorbed",
+        "Let stand for 10 minutes before serving"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Mutton Korma",
+      "description": "Rich and creamy mutton curry with yogurt and nuts.",
+      "category": "Lunch",
+      "time": 120,
+      "rating": 4.7,
+      "image": "assets/images/mutton_korma.png",
+      "ingredients": [
+        "1 kg mutton (bone-in)",
+        "1 cup yogurt",
+        "2 onions (ground to paste)",
+        "1 tbsp ginger-garlic paste",
+        "10 almonds (soaked and ground)",
+        "1 tsp garam masala",
+        "1/2 tsp turmeric",
+        "1/2 cup oil",
+        "Fresh coriander for garnish"
+      ],
+      "steps": [
+        "Marinate mutton with yogurt for 1 hour",
+        "Heat oil and sauté onion paste until golden",
+        "Add ginger-garlic paste and mutton",
+        "Add all spices and cook on high heat",
+        "Add 2 cups water and simmer until tender",
+        "Add almond paste and cook for 10 minutes",
+        "Garnish with fresh coriander"
+      ]
+    },
+
+    {
+      "id": 21,
+      "title": "Mango Lassi",
+      "description": "Creamy yogurt drink with sweet mango pulp, a summer favorite.",
+      "category": "Drinks",
+      "time": 5,
+      "rating": 4.9,
+      "image": "assets/images/mango_lassi.png",
+      "ingredients": [
+        "1 cup ripe mango pulp",
+        "1 cup plain yogurt",
+        "1/2 cup cold milk",
+        "2 tbsp sugar (adjust to taste)",
+        "1/4 tsp cardamom powder",
+        "Ice cubes (optional)",
+        "Chopped pistachios for garnish"
+      ],
+      "steps": [
+        "Combine mango pulp, yogurt, milk and sugar in blender",
+        "Add cardamom powder and ice cubes if using",
+        "Blend until smooth and frothy",
+        "Pour into glasses",
+        "Garnish with chopped pistachios",
+        "Serve chilled"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Rooh Afza Sharbat",
+      "description": "Traditional rose-flavored summer cooler with milky notes.",
+      "category": "Drinks",
+      "time": 5,
+      "rating": 4.7,
+      "image": "assets/images/rooh_afza.png",
+      "ingredients": [
+        "2 tbsp Rooh Afza syrup",
+        "1 cup cold milk or water",
+        "1 tsp lemon juice",
+        "1/4 tsp chaat masala (optional)",
+        "Ice cubes",
+        "Basil seeds (optional)"
+      ],
+      "steps": [
+        "Add Rooh Afza syrup to glass",
+        "Pour cold milk or water and mix well",
+        "Add lemon juice and chaat masala if using",
+        "Add ice cubes",
+        "Soak basil seeds in water for 10 mins if using",
+        "Garnish with soaked basil seeds",
+        "Serve immediately"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Sugarcane Juice (Ganne ka Ras)",
+      "description": "Freshly extracted sweet sugarcane juice with mint and lemon.",
+      "category": "Drinks",
+      "time": 15,
+      "rating": 4.6,
+      "image": "assets/images/sugarcane_juice.png",
+      "ingredients": [
+        "4-5 sugarcane stalks",
+        "1/2 lemon",
+        "1/4 tsp black salt",
+        "1/4 tsp chaat masala",
+        "Ice cubes",
+        "Mint leaves for garnish"
+      ],
+      "steps": [
+        "Peel and cut sugarcane into small pieces",
+        "Extract juice using sugarcane machine",
+        "Add lemon juice, black salt and chaat masala",
+        "Pour over ice cubes",
+        "Garnish with mint leaves",
+        "Serve fresh (best consumed immediately)"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Kashmiri Chai (Pink Tea)",
+      "description": "Traditional salted pink tea with nuts from Kashmir.",
+      "category": "Drinks",
+      "time": 25,
+      "rating": 4.8,
+      "image": "assets/images/kashmiri_chai.png",
+      "ingredients": [
+        "4 cups water",
+        "2 tsp Kashmiri tea leaves",
+        "1/4 tsp baking soda",
+        "2 cups milk",
+        "1/2 tsp salt",
+        "2 tbsp sugar (optional)",
+        "Chopped almonds and pistachios",
+        "1/4 tsp cardamom powder"
+      ],
+      "steps": [
+        "Boil water with tea leaves and baking soda for 15 mins",
+        "Add milk and simmer until pink color develops",
+        "Add salt and sugar (if using)",
+        "Beat with ladle to create froth",
+        "Strain into cups",
+        "Top with chopped nuts and cardamom",
+        "Serve hot"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Lemonade (Nimbu Pani)",
+      "description": "Refreshing homemade lemonade with Indian spices.",
+      "category": "Drinks",
+      "time": 10,
+      "rating": 4.5,
+      "image": "assets/images/nimbu_pani.png",
+      "ingredients": [
+        "4 lemons (juiced)",
+        "4 cups cold water",
+        "1/4 cup sugar (adjust to taste)",
+        "1/2 tsp black salt",
+        "1/4 tsp roasted cumin powder",
+        "Ice cubes",
+        "Mint leaves"
+      ],
+      "steps": [
+        "Mix lemon juice and sugar until dissolved",
+        "Add water and stir well",
+        "Add black salt and cumin powder",
+        "Add ice cubes",
+        "Garnish with mint leaves",
+        "Serve chilled"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Badam Milk",
+      "description": "Creamy almond milk with saffron and cardamom.",
+      "category": "Drinks",
+      "time": 20,
+      "rating": 4.7,
+      "image": "assets/images/badam_milk.png",
+      "ingredients": [
+        "1/2 cup almonds (soaked overnight)",
+        "4 cups milk",
+        "4 tbsp sugar",
+        "1/4 tsp cardamom powder",
+        "Pinch of saffron strands",
+        "Chopped pistachios for garnish"
+      ],
+      "steps": [
+        "Peel soaked almonds and grind with 1/2 cup milk",
+        "Boil remaining milk in heavy pan",
+        "Add almond paste and simmer for 10 mins",
+        "Add sugar, cardamom and saffron",
+        "Stir continuously to prevent sticking",
+        "Garnish with chopped pistachios",
+        "Serve warm or chilled"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Ginger Tea (Adrak Chai)",
+      "description": "Strong black tea with fresh ginger, perfect for winters.",
+      "category": "Drinks",
+      "time": 15,
+      "rating": 4.6,
+      "image": "assets/images/adrak_chai.png",
+      "ingredients": [
+        "2 cups water",
+        "2 tsp black tea leaves",
+        "1 inch ginger (crushed)",
+        "2 cups milk",
+        "Sugar to taste",
+        "2 cardamom pods (optional)"
+      ],
+      "steps": [
+        "Boil water with crushed ginger",
+        "Add tea leaves and boil for 2 mins",
+        "Add milk and bring to boil",
+        "Simmer for 3-4 minutes",
+        "Add sugar to taste",
+        "Strain into cups",
+        "Serve hot"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Sattu Sharbat",
+      "description": "Traditional Punjabi roasted gram flour drink.",
+      "category": "Drinks",
+      "time": 5,
+      "rating": 4.4,
+      "image": "assets/images/sattu_sharbat.png",
+      "ingredients": [
+        "3 tbsp sattu (roasted gram flour)",
+        "1.5 cups cold water",
+        "1/2 lemon (juiced)",
+        "1/2 tsp black salt",
+        "1/4 tsp cumin powder",
+        "1 tbsp chopped mint leaves",
+        "Ice cubes"
+      ],
+      "steps": [
+        "Mix sattu with little water to make paste",
+        "Add remaining water and mix well",
+        "Add lemon juice and spices",
+        "Add ice cubes and mint leaves",
+        "Stir well before drinking",
+        "Serve chilled"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Falsa Juice",
+      "description": "Tangy-sweet summer berry drink with black salt.",
+      "category": "Drinks",
+      "time": 20,
+      "rating": 4.5,
+      "image": "assets/images/falsa_juice.png",
+      "ingredients": [
+        "1 cup falsa berries",
+        "3 cups water",
+        "1/4 cup sugar (adjust to taste)",
+        "1/2 tsp black salt",
+        "1/4 tsp chaat masala",
+        "Ice cubes",
+        "Mint leaves for garnish"
+      ],
+      "steps": [
+        "Wash and mash falsa berries",
+        "Strain through sieve to extract juice",
+        "Add water and sugar, mix well",
+        "Add black salt and chaat masala",
+        "Pour over ice cubes",
+        "Garnish with mint",
+        "Serve chilled"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Masala Soda",
+      "description": "Fizzy spiced soda drink, a street food favorite.",
+      "category": "Drinks",
+      "time": 5,
+      "rating": 4.3,
+      "image": "assets/images/masala_soda.png",
+      "ingredients": [
+        "1 bottle chilled soda water",
+        "1/2 lemon",
+        "1/2 tsp black salt",
+        "1/4 tsp chaat masala",
+        "1/4 tsp roasted cumin powder",
+        "1 tsp sugar",
+        "Ice cubes",
+        "Mint leaves"
+      ],
+      "steps": [
+        "Rub lemon rim of glass with black salt",
+        "Add ice cubes to glass",
+        "Pour soda water",
+        "Add all spices and sugar",
+        "Squeeze lemon juice",
+        "Garnish with mint",
+        "Serve immediately"
+      ]
+    },
+
+  {
+    "id": 31,
+    "title": "Samosas",
+    "description": "Crispy fried pastry filled with spiced potatoes and peas.",
+    "category": "Snacks",
+    "time": 60,
+    "rating": 4.9,
+    "image": "assets/images/samosas.png",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "4 medium potatoes (boiled and mashed)",
+      "1/2 cup green peas",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1/2 tsp garam masala",
+      "1 green chili (finely chopped)",
+      "1 tsp amchoor (dried mango powder)",
+      "Oil for deep frying",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Make dough with flour, salt and 2 tbsp oil",
+      "For filling, sauté cumin, add peas and mashed potatoes",
+      "Add all spices and mix well",
+      "Roll dough into thin circles, cut in half",
+      "Form cones and fill with potato mixture",
+      "Seal edges with water",
+      "Deep fry until golden brown",
+      "Serve hot with mint chutney"
+    ]
+  },
+  {
+    "id":32,
+    "title": "Pakoras",
+    "description": "Crispy fritters made with gram flour and vegetables.",
+    "category": "Snacks",
+    "time": 30,
+    "rating": 4.7,
+    "image": "assets/images/pakoras.png",
+    "ingredients": [
+      "1 cup gram flour (besan)",
+      "1 onion (sliced)",
+      "1 potato (thinly sliced)",
+      "1/2 cup spinach leaves",
+      "1 green chili (chopped)",
+      "1/2 tsp cumin seeds",
+      "1/2 tsp red chili powder",
+      "1/4 tsp baking soda",
+      "Water as needed",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Mix gram flour with all spices and baking soda",
+      "Add vegetables and mix well",
+      "Add water gradually to make thick batter",
+      "Heat oil in deep pan",
+      "Drop spoonfuls of batter into hot oil",
+      "Fry until golden and crispy",
+      "Drain on paper towels",
+      "Serve hot with tamarind chutney"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Dahi Bhallay",
+    "description": "Soft lentil dumplings in creamy yogurt with chutneys.",
+    "category": "Snacks",
+    "time": 90,
+    "rating": 4.8,
+    "image": "assets/images/dahi_bhallay.png",
+    "ingredients": [
+      "1 cup urad dal (soaked 4 hours)",
+      "1/2 cup yogurt",
+      "1 tsp cumin powder",
+      "1/2 tsp red chili powder",
+      "1/4 cup tamarind chutney",
+      "1/4 cup mint chutney",
+      "1 tsp chaat masala",
+      "Sev for garnish",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Grind soaked dal to smooth paste",
+      "Whip until fluffy and add pinch of baking soda",
+      "Make small balls and deep fry until golden",
+      "Soak in warm water for 15 minutes then squeeze",
+      "Arrange in serving dish",
+      "Top with beaten yogurt",
+      "Drizzle both chutneys",
+      "Sprinkle spices and sev"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Chana Chaat",
+    "description": "Tangy and spicy chickpea salad with fresh vegetables.",
+    "category": "Snacks",
+    "time": 15,
+    "rating": 4.6,
+    "image": "assets/images/chana_chaat.png",
+    "ingredients": [
+      "2 cups boiled chickpeas",
+      "1 onion (finely chopped)",
+      "1 tomato (chopped)",
+      "1 boiled potato (diced)",
+      "1/2 cup yogurt",
+      "2 tbsp tamarind chutney",
+      "1 tsp chaat masala",
+      "1/2 tsp red chili powder",
+      "Fresh coriander leaves",
+      "Sev for garnish"
+    ],
+    "steps": [
+      "Combine all vegetables and chickpeas in bowl",
+      "Add yogurt and mix gently",
+      "Add both chutneys",
+      "Sprinkle all spices",
+      "Garnish with coriander and sev",
+      "Serve immediately"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Aloo Tikki",
+    "description": "Crispy potato patties served with chutneys.",
+    "category": "Snacks",
+    "time": 40,
+    "rating": 4.7,
+    "image": "assets/images/aloo_tikki.png",
+    "ingredients": [
+      "4 potatoes (boiled and mashed)",
+      "1/2 cup boiled peas",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1 green chili (finely chopped)",
+      "2 tbsp cornflour",
+      "Breadcrumbs for coating",
+      "Oil for shallow frying"
+    ],
+    "steps": [
+      "Mix mashed potatoes with all ingredients except oil",
+      "Make small round patties",
+      "Coat lightly with breadcrumbs",
+      "Shallow fry until golden brown on both sides",
+      "Serve hot with mint and tamarind chutney"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Spring Rolls",
+    "description": "Crispy rolls filled with vegetables and noodles.",
+    "category": "Snacks",
+    "time": 50,
+    "rating": 4.5,
+    "image": "assets/images/spring_rolls.png",
+    "ingredients": [
+      "12 spring roll wrappers",
+      "1 cup cabbage (shredded)",
+      "1 carrot (julienned)",
+      "1/2 cup bean sprouts",
+      "1/2 cup cooked noodles",
+      "1 tbsp soy sauce",
+      "1 tsp black pepper",
+      "1 tbsp cornflour slurry",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Sauté all vegetables for 2 minutes",
+      "Add noodles and seasonings",
+      "Cool the filling completely",
+      "Place filling on wrappers and roll tightly",
+      "Seal edges with cornflour slurry",
+      "Deep fry until golden and crispy",
+      "Serve with sweet chili sauce"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Chicken Roll",
+    "description": "Flaky paratha wrapped around spicy chicken filling.",
+    "category": "Snacks",
+    "time": 45,
+    "rating": 4.8,
+    "image": "assets/images/chicken_roll.png",
+    "ingredients": [
+      "2 cups flour (for paratha)",
+      "250g chicken (minced)",
+      "1 onion (finely chopped)",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp garam masala",
+      "1/2 tsp red chili powder",
+      "1 egg (beaten)",
+      "2 tbsp mayonnaise",
+      "Oil for cooking"
+    ],
+    "steps": [
+      "Make paratha dough and roll out thin circles",
+      "Cook on griddle with little oil",
+      "For filling, sauté chicken with all spices",
+      "Spread mayonnaise on paratha",
+      "Place chicken filling and roll tightly",
+      "Dip in beaten egg and shallow fry",
+      "Cut into pieces and serve"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Fruit Chaat",
+    "description": "Colorful fruit salad with chaat masala twist.",
+    "category": "Snacks",
+    "time": 15,
+    "rating": 4.4,
+    "image": "assets/images/fruit_chaat.png",
+    "ingredients": [
+      "1 apple (diced)",
+      "1 banana (sliced)",
+      "1/2 cup grapes",
+      "1 orange (segmented)",
+      "1/2 cup pomegranate seeds",
+      "1 tsp chaat masala",
+      "1/2 tsp black salt",
+      "1 lemon (juiced)",
+      "Fresh mint leaves"
+    ],
+    "steps": [
+      "Combine all fruits in large bowl",
+      "Add lemon juice immediately to prevent browning",
+      "Sprinkle chaat masala and black salt",
+      "Toss gently to mix",
+      "Garnish with mint leaves",
+      "Serve chilled"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Bun Kabab",
+    "description": "Spicy patty burger with chutneys in soft bun.",
+    "category": "Snacks",
+    "time": 30,
+    "rating": 4.6,
+    "image": "assets/images/bun_kabab.png",
+    "ingredients": [
+      "4 burger buns",
+      "250g beef or chicken (minced)",
+      "1 onion (finely chopped)",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp garam masala",
+      "1 egg",
+      "2 tbsp breadcrumbs",
+      "Mint chutney",
+      "Tamarind chutney",
+      "Onion slices"
+    ],
+    "steps": [
+      "Mix minced meat with all ingredients except buns",
+      "Make patties and shallow fry",
+      "Toast buns lightly",
+      "Spread both chutneys on buns",
+      "Place patty and onion slices",
+      "Serve immediately"
+    ]
+  },
+  {
+    "id":40,
+    "title": "Jalebi",
+    "description": "Crispy orange swirls soaked in sugar syrup.",
+    "category": "Snacks",
+    "time": 60,
+    "rating": 4.9,
+    "image": "assets/images/jalebi.png",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1 tbsp cornflour",
+      "1/4 tsp baking powder",
+      "1/2 tsp yellow food color",
+      "1 cup yogurt",
+      "2 cups sugar",
+      "1 cup water",
+      "1/2 tsp cardamom powder",
+      "Oil for deep frying"
+    ],
+    "steps": [
+      "Make sugar syrup with cardamom and keep warm",
+      "Mix all dry ingredients for batter",
+      "Add yogurt and make flowing consistency batter",
+      "Ferment for 30 minutes",
+      "Fill piping bag with batter",
+      "Pipe swirls into hot oil",
+      "Fry until crispy then dip in syrup",
+      "Serve warm"
+    ]
+  },
+
+    {
+      "id": 41,
+      "title": "Gulab Jamun",
+      "description": "Soft golden dumplings soaked in fragrant sugar syrup.",
+      "category": "Desserts",
+      "time": 90,
+      "rating": 4.9,
+      "image": "assets/images/gulab_jamun.png",
+      "ingredients": [
+        "1 cup milk powder",
+        "1/4 cup all-purpose flour",
+        "1/4 tsp baking soda",
+        "2 tbsp ghee",
+        "3-4 tbsp milk",
+        "1.5 cups sugar",
+        "1.5 cups water",
+        "4 cardamom pods",
+        "1 tsp rose water",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Make sugar syrup with cardamom and rose water",
+        "Mix dry ingredients for dough",
+        "Add ghee and milk to form soft dough",
+        "Shape into smooth balls without cracks",
+        "Fry on low heat until golden brown",
+        "Soak in warm syrup for 2 hours",
+        "Serve warm or at room temperature"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Gajar ka Halwa",
+      "description": "Rich carrot pudding cooked in milk and dry fruits.",
+      "category": "Desserts",
+      "time": 120,
+      "rating": 4.8,
+      "image": "assets/images/gajar_halwa.png",
+      "ingredients": [
+        "1 kg red carrots (grated)",
+        "1 liter full-fat milk",
+        "1/2 cup ghee",
+        "1 cup sugar",
+        "1/2 cup khoya (milk solids)",
+        "1/4 cup chopped almonds",
+        "1/4 cup chopped pistachios",
+        "1 tsp cardamom powder",
+        "Silver leaf (optional)"
+      ],
+      "steps": [
+        "Cook grated carrots in milk until thick",
+        "Add ghee and cook until carrots soften",
+        "Add sugar and cook until moisture evaporates",
+        "Mix in khoya and dry fruits",
+        "Garnish with more nuts and silver leaf",
+        "Serve warm with vanilla ice cream"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Kheer (Rice Pudding)",
+      "description": "Creamy rice pudding flavored with cardamom and saffron.",
+      "category": "Desserts",
+      "time": 60,
+      "rating": 4.7,
+      "image": "assets/images/kheer.png",
+      "ingredients": [
+        "1/2 cup basmati rice",
+        "1 liter full-fat milk",
+        "1/2 cup sugar",
+        "1/4 tsp cardamom powder",
+        "10-12 saffron strands",
+        "1/4 cup chopped mixed nuts",
+        "1 tbsp rose water",
+        "1/4 cup condensed milk (optional)"
+      ],
+      "steps": [
+        "Soak rice for 30 minutes then drain",
+        "Boil milk in heavy-bottomed pan",
+        "Add rice and simmer until soft",
+        "Add sugar and cook until thickened",
+        "Add cardamom, saffron and nuts",
+        "Finish with rose water",
+        "Chill before serving"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Jalebi",
+      "description": "Crispy orange swirls soaked in sugar syrup.",
+      "category": "Desserts",
+      "time": 60,
+      "rating": 4.8,
+      "image": "assets/images/jalebi.png",
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "1 tbsp cornflour",
+        "1/4 tsp baking powder",
+        "1/2 tsp yellow food color",
+        "1 cup yogurt",
+        "2 cups sugar",
+        "1 cup water",
+        "1/2 tsp cardamom powder",
+        "Oil for deep frying"
+      ],
+      "steps": [
+        "Make sugar syrup with cardamom",
+        "Mix dry ingredients for batter",
+        "Add yogurt to make flowing consistency",
+        "Ferment for 30 minutes",
+        "Pipe swirls into hot oil",
+        "Fry until crispy then dip in syrup",
+        "Serve warm"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Ras Malai",
+      "description": "Soft cheese patties in sweetened, flavored milk.",
+      "category": "Desserts",
+      "time": 90,
+      "rating": 4.9,
+      "image": "assets/images/ras_malai.png",
+      "ingredients": [
+        "1 liter full-fat milk (for chenna)",
+        "2 tbsp lemon juice",
+        "1 liter full-fat milk (for rabri)",
+        "1 cup sugar",
+        "1/4 tsp cardamom powder",
+        "10-12 saffron strands",
+        "1/4 cup chopped pistachios"
+      ],
+      "steps": [
+        "Make chenna by curdling milk with lemon juice",
+        "Knead into smooth dough",
+        "Shape into flat discs",
+        "Boil in sugar syrup until puffed",
+        "Prepare rabri by reducing milk with sugar",
+        "Soak chenna discs in rabri",
+        "Garnish with saffron and nuts",
+        "Chill before serving"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Shahi Tukray",
+      "description": "Royal bread pudding with rich creamy sauce.",
+      "category": "Desserts",
+      "time": 60,
+      "rating": 4.6,
+      "image": "assets/images/shahi_tukray.png",
+      "ingredients": [
+        "8 slices white bread (crusts removed)",
+        "1 liter full-fat milk",
+        "1/2 cup sugar",
+        "1/4 tsp cardamom powder",
+        "10-12 saffron strands",
+        "1/4 cup condensed milk",
+        "Ghee for frying",
+        "Silver leaf and chopped nuts for garnish"
+      ],
+      "steps": [
+        "Cut bread into triangles",
+        "Shallow fry in ghee until golden",
+        "Reduce milk with sugar until thick",
+        "Add cardamom and saffron",
+        "Dip bread pieces in milk mixture",
+        "Layer in dish and pour remaining milk",
+        "Garnish with silver leaf and nuts",
+        "Serve chilled"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Sohan Halwa",
+      "description": "Traditional dense sweet from Multan with nuts.",
+      "category": "Desserts",
+      "time": 120,
+      "rating": 4.7,
+      "image": "assets/images/sohan_halwa.png",
+      "ingredients": [
+        "1 cup cornflour",
+        "1 cup ghee",
+        "2 cups sugar",
+        "3 cups water",
+        "1/4 tsp cardamom powder",
+        "1/4 cup chopped almonds",
+        "1/4 cup chopped pistachios",
+        "Edible orange color (optional)"
+      ],
+      "steps": [
+        "Make sugar syrup and keep warm",
+        "Mix cornflour with water to make slurry",
+        "Cook in ghee until thick and translucent",
+        "Add sugar syrup gradually",
+        "Cook until mixture leaves sides of pan",
+        "Add nuts and cardamom",
+        "Pour in greased tray and cut when cool"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Firni",
+      "description": "Ground rice pudding with delicate flavors.",
+      "category": "Desserts",
+      "time": 60,
+      "rating": 4.5,
+      "image": "assets/images/firni.png",
+      "ingredients": [
+        "1/2 cup rice (soaked 2 hours)",
+        "1 liter full-fat milk",
+        "1/2 cup sugar",
+        "1/4 tsp cardamom powder",
+        "10-12 saffron strands",
+        "1 tbsp rose water",
+        "1/4 cup chopped pistachios"
+      ],
+      "steps": [
+        "Grind soaked rice to coarse paste",
+        "Boil milk in heavy pan",
+        "Add rice paste and cook until thick",
+        "Add sugar and cook further",
+        "Add cardamom and saffron",
+        "Pour in earthen pots if available",
+        "Garnish with nuts and rose water",
+        "Chill before serving"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Zarda (Sweet Rice)",
+      "description": "Fragrant yellow sweet rice with nuts and raisins.",
+      "category": "Desserts",
+      "time": 60,
+      "rating": 4.6,
+      "image": "assets/images/zarda.png",
+      "ingredients": [
+        "2 cups basmati rice",
+        "1 cup sugar",
+        "1/2 cup ghee",
+        "4 cardamom pods",
+        "4 cloves",
+        "1/2 tsp yellow food color",
+        "1/4 cup raisins",
+        "1/4 cup chopped almonds",
+        "1/4 cup chopped pistachios",
+        "1 tsp rose water"
+      ],
+      "steps": [
+        "Soak rice for 30 minutes then parboil",
+        "Heat ghee and whole spices",
+        "Add sugar and color dissolved in water",
+        "Layer rice and cook on dum",
+        "Add nuts and raisins",
+        "Finish with rose water",
+        "Serve warm"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Kulfi (Traditional Ice Cream)",
+      "description": "Creamy frozen dessert with cardamom and pistachios.",
+      "category": "Desserts",
+      "time": 360,
+      "rating": 4.8,
+      "image": "assets/images/kulfi.png",
+      "ingredients": [
+        "1 liter full-fat milk",
+        "1/2 cup condensed milk",
+        "1/4 cup milk powder",
+        "1/4 tsp cardamom powder",
+        "2 tbsp chopped pistachios",
+        "1 tbsp rose water",
+        "Saffron strands (optional)"
+      ],
+      "steps": [
+        "Reduce milk to half its volume",
+        "Add condensed milk and milk powder",
+        "Cook until very thick",
+        "Add cardamom and nuts",
+        "Cool completely then add rose water",
+        "Pour into kulfi molds",
+        "Freeze for at least 6 hours",
+        "Dip molds in warm water to unmold"
+      ]
+    },
+
+    {
+      "id": 51,
+      "title": "Chicken Karahi",
+      "description": "Classic Pakistani chicken cooked in a wok with tomatoes and spices.",
+      "category": "BBQ & Karahi",
+      "time": 45,
+      "rating": 4.9,
+      "image": "assets/images/chicken_karahi.png",
+      "ingredients": [
+        "1 kg chicken (cut into pieces)",
+        "4 tomatoes (finely chopped)",
+        "2 green chilies (slit)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1 tsp coriander powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp garam masala",
+        "1/2 cup oil or ghee",
+        "Fresh coriander leaves for garnish",
+        "1 inch ginger juliennes"
+      ],
+      "steps": [
+        "Heat oil in karahi and add cumin seeds",
+        "Add chicken and cook on high heat until color changes",
+        "Add ginger-garlic paste and sauté for 2 minutes",
+        "Add tomatoes and all dry spices",
+        "Cook on medium heat until oil separates",
+        "Add 1/2 cup water and simmer until chicken is tender",
+        "Garnish with fresh coriander and ginger juliennes",
+        "Serve hot with naan or roti"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Beef Karahi",
+      "description": "Rich and flavorful beef cooked in traditional karahi style.",
+      "category": "BBQ & Karahi",
+      "time": 90,
+      "rating": 4.8,
+      "image": "assets/images/beef_karahi.png",
+      "ingredients": [
+        "1 kg beef (cubed)",
+        "4 tomatoes (pureed)",
+        "2 onions (finely chopped)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1 tsp coriander powder",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala",
+        "1/2 cup oil",
+        "Fresh coriander for garnish",
+        "1 green chili (chopped)"
+      ],
+      "steps": [
+        "Pressure cook beef with salt and turmeric until tender",
+        "Heat oil in karahi and sauté onions until golden",
+        "Add ginger-garlic paste and cook for 1 minute",
+        "Add tomato puree and cook until oil separates",
+        "Add cooked beef and all spices",
+        "Cook on high heat for 5-7 minutes",
+        "Garnish with fresh coriander and green chili",
+        "Serve with tandoori roti"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Mutton Karahi",
+      "description": "Tender mutton cooked with traditional karahi spices.",
+      "category": "BBQ & Karahi",
+      "time": 120,
+      "rating": 4.8,
+      "image": "assets/images/mutton_karahi.png",
+      "ingredients": [
+        "1 kg mutton (bone-in)",
+        "4 tomatoes (chopped)",
+        "2 onions (sliced)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1 tsp coriander powder",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala",
+        "1/2 cup yogurt",
+        "1/2 cup oil",
+        "Fresh coriander for garnish"
+      ],
+      "steps": [
+        "Pressure cook mutton with salt and turmeric until tender",
+        "Heat oil in karahi and sauté onions until golden",
+        "Add ginger-garlic paste and cook for 1 minute",
+        "Add tomatoes and cook until soft",
+        "Add cooked mutton and all spices",
+        "Whisk yogurt and add to karahi",
+        "Cook on high heat for 10 minutes",
+        "Garnish with fresh coriander",
+        "Serve hot with naan"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Kadai Chicken",
+      "description": "Restaurant-style chicken karahi with bell peppers.",
+      "category": "BBQ & Karahi",
+      "time": 50,
+      "rating": 4.7,
+      "image": "assets/images/kadai_chicken.png",
+      "ingredients": [
+        "1 kg chicken (cut into pieces)",
+        "2 capsicums (bell peppers, cubed)",
+        "4 tomatoes (chopped)",
+        "1 tbsp ginger-garlic paste",
+        "1 tbsp karahi masala",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp crushed coriander seeds",
+        "1/2 cup oil",
+        "Fresh coriander for garnish",
+        "1 inch ginger juliennes"
+      ],
+      "steps": [
+        "Heat oil in karahi and sauté chicken until color changes",
+        "Add ginger-garlic paste and cook for 2 minutes",
+        "Add tomatoes and all spices except karahi masala",
+        "Cook until oil separates",
+        "Add capsicum and karahi masala",
+        "Cook on high heat for 5 minutes",
+        "Garnish with fresh coriander and ginger",
+        "Serve hot with naan"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "White Karahi",
+      "description": "Creamy white chicken karahi without tomatoes.",
+      "category": "BBQ & Karahi",
+      "time": 45,
+      "rating": 4.6,
+      "image": "assets/images/white_karahi.png",
+      "ingredients": [
+        "1 kg chicken (cut into pieces)",
+        "1 cup yogurt",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp white pepper powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1/2 cup fresh cream",
+        "1/2 cup oil",
+        "Fresh coriander for garnish",
+        "1 green chili (sliced)"
+      ],
+      "steps": [
+        "Heat oil in karahi and sauté chicken until color changes",
+        "Add ginger-garlic paste and cook for 2 minutes",
+        "Whisk yogurt with all spices and add to karahi",
+        "Cook on medium heat until chicken is tender",
+        "Add fresh cream and cook for 2 more minutes",
+        "Garnish with fresh coriander and green chili",
+        "Serve hot with tandoori roti"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Peshawari Karahi",
+      "description": "Traditional karahi from Peshawar with minimal spices.",
+      "category": "BBQ & Karahi",
+      "time": 60,
+      "rating": 4.8,
+      "image": "assets/images/peshawari_karahi.png",
+      "ingredients": [
+        "1 kg chicken or mutton",
+        "4 tomatoes (chopped)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp black pepper powder",
+        "1 tsp salt",
+        "1/2 cup oil or ghee",
+        "Fresh coriander for garnish",
+        "1 green chili (sliced)"
+      ],
+      "steps": [
+        "Heat oil in karahi and sauté meat until color changes",
+        "Add ginger-garlic paste and cook for 2 minutes",
+        "Add tomatoes and cook until oil separates",
+        "Add black pepper and salt",
+        "Cook on high heat for 10 minutes",
+        "Garnish with fresh coriander and green chili",
+        "Serve hot with naan"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Charsi Karahi",
+      "description": "Specialty from Peshawar's Charsi Tikka shops.",
+      "category": "BBQ & Karahi",
+      "time": 50,
+      "rating": 4.9,
+      "image": "assets/images/charsi_karahi.png",
+      "ingredients": [
+        "1 kg chicken or mutton",
+        "4 tomatoes (chopped)",
+        "1 tbsp ginger paste",
+        "1 tbsp garlic paste",
+        "1 tsp black pepper powder",
+        "1 tsp salt",
+        "1/2 cup oil or ghee",
+        "Fresh coriander for garnish",
+        "1 green chili (sliced)",
+        "Lemon wedges"
+      ],
+      "steps": [
+        "Heat oil in karahi and sauté meat until color changes",
+        "Add ginger-garlic paste and cook for 2 minutes",
+        "Add tomatoes and cook until oil separates",
+        "Add black pepper and salt",
+        "Cook on high heat until meat is tender",
+        "Garnish with fresh coriander and green chili",
+        "Serve with lemon wedges and naan"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Fish Karahi",
+      "description": "Flaky fish cooked in spicy karahi gravy.",
+      "category": "BBQ & Karahi",
+      "time": 40,
+      "rating": 4.5,
+      "image": "assets/images/fish_karahi.png",
+      "ingredients": [
+        "1 kg fish fillets (snapper or tilapia)",
+        "4 tomatoes (chopped)",
+        "2 onions (sliced)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1 tsp coriander powder",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1/2 cup oil",
+        "Fresh coriander for garnish",
+        "Lemon wedges"
+      ],
+      "steps": [
+        "Marinate fish with salt and turmeric for 15 minutes",
+        "Heat oil in karahi and sauté onions until golden",
+        "Add ginger-garlic paste and cook for 1 minute",
+        "Add tomatoes and all spices",
+        "Cook until oil separates",
+        "Gently add fish pieces and simmer for 10 minutes",
+        "Garnish with fresh coriander",
+        "Serve with lemon wedges and naan"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Vegetable Karahi",
+      "description": "Hearty mix of vegetables in spicy karahi gravy.",
+      "category": "BBQ & Karahi",
+      "time": 45,
+      "rating": 4.4,
+      "image": "assets/images/vegetable_karahi.png",
+      "ingredients": [
+        "2 cups mixed vegetables (cauliflower, potatoes, carrots)",
+        "2 tomatoes (chopped)",
+        "1 onion (sliced)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1 tsp coriander powder",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala",
+        "1/2 cup oil",
+        "Fresh coriander for garnish"
+      ],
+      "steps": [
+        "Parboil vegetables until half cooked",
+        "Heat oil in karahi and sauté onions until golden",
+        "Add ginger-garlic paste and cook for 1 minute",
+        "Add tomatoes and all spices",
+        "Cook until oil separates",
+        "Add vegetables and cook for 10 minutes",
+        "Garnish with fresh coriander",
+        "Serve hot with naan"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Paneer Karahi",
+      "description": "Cottage cheese cubes in rich karahi gravy.",
+      "category": "BBQ & Karahi",
+      "time": 35,
+      "rating": 4.6,
+      "image": "assets/images/paneer_karahi.png",
+      "ingredients": [
+        "500g paneer (cubed)",
+        "4 tomatoes (chopped)",
+        "1 onion (sliced)",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp cumin seeds",
+        "1 tsp coriander powder",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala",
+        "1/2 cup oil",
+        "Fresh coriander for garnish",
+        "1 green chili (sliced)"
+      ],
+      "steps": [
+        "Lightly fry paneer cubes and set aside",
+        "Heat oil in karahi and sauté onions until golden",
+        "Add ginger-garlic paste and cook for 1 minute",
+        "Add tomatoes and all spices",
+        "Cook until oil separates",
+        "Add paneer cubes and cook for 5 minutes",
+        "Garnish with fresh coriander and green chili",
+        "Serve hot with naan"
+      ]
+    },
+
+    {
+      "id": 601,
+      "title": "Seekh Kabab",
+      "description": "Spiced minced meat skewers grilled to perfection.",
+      "category": "BBQ & Karahi",
+      "time": 90,
+      "rating": 4.9,
+      "image": "assets/images/seekh_kabab.png",
+      "ingredients": [
+        "500g ground beef or lamb",
+        "1 onion (finely chopped)",
+        "1 tbsp ginger-garlic paste",
+        "1 tbsp coriander powder",
+        "1 tsp cumin powder",
+        "1 tsp red chili powder",
+        "1/2 tsp garam masala",
+        "1 tbsp chickpea flour (besan)",
+        "1 egg (optional for binding)",
+        "2 tbsp fresh coriander (chopped)",
+        "Skewers for grilling"
+      ],
+      "steps": [
+        "Mix all ingredients thoroughly in a bowl",
+        "Cover and refrigerate for 1 hour",
+        "Wet hands and mold mixture onto skewers",
+        "Grill on medium heat for 8-10 minutes, turning occasionally",
+        "Baste with oil while grilling",
+        "Serve hot with mint chutney and naan"
+      ]
+    },
+    {
+      "id": 602,
+      "title": "Chicken Tikka",
+      "description": "Marinated chicken pieces grilled on skewers.",
+      "category": "BBQ & Karahi",
+      "time": 120,
+      "rating": 4.8,
+      "image": "assets/images/chicken_tikka.png",
+      "ingredients": [
+        "1 kg boneless chicken (cut into cubes)",
+        "1 cup yogurt",
+        "1 tbsp ginger-garlic paste",
+        "1 tbsp lemon juice",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala",
+        "2 tbsp oil",
+        "Skewers for grilling"
+      ],
+      "steps": [
+        "Make deep cuts in chicken pieces",
+        "Mix all marinade ingredients in a bowl",
+        "Add chicken and coat well",
+        "Marinate for at least 2 hours (overnight best)",
+        "Thread onto skewers",
+        "Grill on medium heat for 10-12 minutes",
+        "Baste with oil while grilling",
+        "Serve with onion rings and lemon wedges"
+      ]
+    },
+    {
+      "id": 603,
+      "title": "Bihari Kabab",
+      "description": "Tender beef strips marinated in special spices.",
+      "category": "BBQ & Karahi",
+      "time": 180,
+      "rating": 4.7,
+      "image": "assets/images/bihari_kabab.png",
+      "ingredients": [
+        "1 kg beef (cut into thin strips)",
+        "1/2 cup yogurt",
+        "1 tbsp ginger-garlic paste",
+        "1 tbsp poppy seeds (khus khus)",
+        "1 tbsp roasted gram flour",
+        "1 tsp red chili powder",
+        "1/2 tsp mace powder (javitri)",
+        "1/2 tsp nutmeg powder",
+        "2 tbsp mustard oil",
+        "Skewers for grilling"
+      ],
+      "steps": [
+        "Make deep cuts in beef strips",
+        "Grind poppy seeds to powder",
+        "Mix all marinade ingredients",
+        "Marinate beef for at least 4 hours (overnight best)",
+        "Thread onto skewers",
+        "Grill on medium heat for 8-10 minutes",
+        "Baste with oil while grilling",
+        "Serve with naan and raita"
+      ]
+    },
+    {
+      "id": 604,
+      "title": "Malai Boti",
+      "description": "Creamy marinated chicken grilled to perfection.",
+      "category": "BBQ & Karahi",
+      "time": 120,
+      "rating": 4.7,
+      "image": "assets/images/malai_boti.png",
+      "ingredients": [
+        "1 kg boneless chicken (cubed)",
+        "1/2 cup fresh cream",
+        "1/4 cup yogurt",
+        "1 tbsp ginger-garlic paste",
+        "1 tbsp white pepper powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1 tbsp cheese (grated)",
+        "1 tbsp butter",
+        "Skewers for grilling"
+      ],
+      "steps": [
+        "Make deep cuts in chicken pieces",
+        "Mix all marinade ingredients except butter",
+        "Marinate chicken for at least 2 hours",
+        "Thread onto skewers",
+        "Grill on medium heat for 10-12 minutes",
+        "Baste with butter while grilling",
+        "Serve hot with garlic sauce"
+      ]
+    },
+    {
+      "id": 605,
+      "title": "Reshmi Kabab",
+      "description": "Silky smooth chicken kababs with delicate flavors.",
+      "category": "BBQ & Karahi",
+      "time": 90,
+      "rating": 4.6,
+      "image": "assets/images/reshmi_kabab.png",
+      "ingredients": [
+        "500g boneless chicken (minced)",
+        "1/4 cup cream",
+        "1 tbsp cashew paste",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp white pepper powder",
+        "1/2 tsp cardamom powder",
+        "1 egg white",
+        "1 tbsp cornflour",
+        "2 tbsp butter",
+        "Skewers for grilling"
+      ],
+      "steps": [
+        "Mix all ingredients except butter",
+        "Cover and refrigerate for 1 hour",
+        "Wet hands and mold onto skewers",
+        "Grill on medium heat for 8-10 minutes",
+        "Baste with butter while grilling",
+        "Serve with mint yogurt dip"
+      ]
+    },
+    {
+      "id": 606,
+      "title": "Tandoori Chicken",
+      "description": "Classic whole chicken marinated in yogurt and spices.",
+      "category": "BBQ & Karahi",
+      "time": 180,
+      "rating": 4.8,
+      "image": "assets/images/tandoori_chicken.png",
+      "ingredients": [
+        "1 whole chicken (cut into pieces)",
+        "1 cup yogurt",
+        "1 tbsp ginger-garlic paste",
+        "1 tbsp lemon juice",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala",
+        "1 tsp tandoori masala",
+        "2 tbsp mustard oil",
+        "Red food color (optional)"
+      ],
+      "steps": [
+        "Make deep cuts in chicken pieces",
+        "Mix all marinade ingredients",
+        "Coat chicken thoroughly",
+        "Marinate for at least 3 hours (overnight best)",
+        "Grill on medium heat for 20-25 minutes",
+        "Baste with oil while grilling",
+        "Serve with onion rings and lemon wedges"
+      ]
+    },
+    {
+      "id": 607,
+      "title": "Fish Tikka",
+      "description": "Marinated fish pieces grilled on skewers.",
+      "category": "BBQ & Karahi",
+      "time": 60,
+      "rating": 4.5,
+      "image": "assets/images/fish_tikka.png",
+      "ingredients": [
+        "1 kg firm fish fillets (cut into cubes)",
+        "1/2 cup yogurt",
+        "1 tbsp ginger-garlic paste",
+        "1 tbsp lemon juice",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "2 tbsp oil",
+        "Skewers for grilling"
+      ],
+      "steps": [
+        "Pat dry fish pieces",
+        "Mix all marinade ingredients",
+        "Coat fish gently",
+        "Marinate for 30 minutes",
+        "Thread onto skewers",
+        "Grill on medium heat for 6-8 minutes",
+        "Baste with oil while grilling",
+        "Serve with mint chutney"
+      ]
+    },
+    {
+      "id": 608,
+      "title": "Peshawari Chapli Kabab",
+      "description": "Spiced beef patties from Peshawar.",
+      "category": "BBQ & Karahi",
+      "time": 60,
+      "rating": 4.7,
+      "image": "assets/images/chapli_kabab.png",
+      "ingredients": [
+        "500g ground beef",
+        "1 onion (finely chopped)",
+        "2 tomatoes (finely chopped)",
+        "1 tbsp ginger-garlic paste",
+        "1 tbsp pomegranate seeds (crushed)",
+        "1 tbsp coriander seeds (crushed)",
+        "1 tsp red chili powder",
+        "1/2 tsp garam masala",
+        "1 egg (for binding)",
+        "Oil for shallow frying"
+      ],
+      "steps": [
+        "Mix all ingredients thoroughly",
+        "Make flat round patties",
+        "Heat oil in pan or grill",
+        "Cook on medium heat for 5-7 minutes per side",
+        "Press gently while cooking",
+        "Serve hot with naan and salad"
+      ]
+    },
+    {
+      "id": 609,
+      "title": "Hariyali Kabab",
+      "description": "Green herb-marinated chicken kababs.",
+      "category": "BBQ & Karahi",
+      "time": 120,
+      "rating": 4.6,
+      "image": "assets/images/hariyali_kabab.png",
+      "ingredients": [
+        "500g boneless chicken (minced)",
+        "1/2 cup fresh coriander",
+        "1/4 cup fresh mint",
+        "2 green chilies",
+        "1 tbsp ginger-garlic paste",
+        "1 tbsp lemon juice",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1 egg white",
+        "2 tbsp oil"
+      ],
+      "steps": [
+        "Blend coriander, mint and green chilies to paste",
+        "Mix with all other ingredients",
+        "Cover and refrigerate for 1 hour",
+        "Shape into flat kababs",
+        "Grill on medium heat for 8-10 minutes",
+        "Baste with oil while grilling",
+        "Serve with tamarind chutney"
+      ]
+    },
+    {
+      "id": 610,
+      "title": "Beef Shashlik",
+      "description": "Beef and vegetable skewers with flavorful marinade.",
+      "category": "BBQ & Karahi",
+      "time": 90,
+      "rating": 4.6,
+      "image": "assets/images/beef_shashlik.png",
+      "ingredients": [
+        "500g beef (cut into cubes)",
+        "1 capsicum (cut into squares)",
+        "1 onion (cut into squares)",
+        "1 tomato (cut into squares)",
+        "1 tbsp soy sauce",
+        "1 tbsp vinegar",
+        "1 tbsp ginger-garlic paste",
+        "1 tsp black pepper powder",
+        "1 tsp red chili powder",
+        "2 tbsp oil",
+        "Skewers for grilling"
+      ],
+      "steps": [
+        "Mix all marinade ingredients",
+        "Add beef and marinate for 1 hour",
+        "Thread beef and vegetables alternately on skewers",
+        "Grill on medium heat for 10-12 minutes",
+        "Baste with oil while grilling",
+        "Serve with garlic sauce"
+      ]
+    }
+  ]
+
+
